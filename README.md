@@ -20,13 +20,13 @@ Aplikasi ini dikembangkan untuk mendeteksi makanan da harga pada warung makan pa
 <div align="center">
 
 ### **Halaman Tampilan Utama**
-<img width="250" height="500" src="SISTEM-CERDAS/gambar1" alt="Halaman Tampilan Utama">
+<img width="250" height="500" src="Pictures/gambar1" alt="Halaman Tampilan Utama">
 
 ### **Halaman Deteksi**
-<img width="250" height="500" src="SISTEM-CERDAS/gambar2" alt="Halaman Deteksi">
+<img width="250" height="500" src="Pictures/gambar2" alt="Halaman Deteksi">
 
 ### **Halaman Tentang**
-<img width="250" height="500" src="SISTEM-CERDAS/gambar3" alt="Halaman Tentang">
+<img width="250" height="500" src="Pictures/gambar3" alt="Halaman Tentang">
 
 >
 
