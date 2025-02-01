@@ -1,3 +1,4 @@
+![alt text](https://github.com/FauzanTMR/SISTEM-CERDAS/blob/main/gambar/gambar1.jpg?raw=true)
 # Tugas Sistem Cerdas  
 
 ### 📌 Judul : **Sistem Deteksi Makanan dan Harga Pada Warung Makan Padang Menggunakan CNN Berbasis Android**
