@@ -31,3 +31,9 @@ Aplikasi ini dikembangkan untuk mendeteksi makanan da harga pada warung makan pa
 >
 
 </div>
+
+---
+
+## Algoritma yang Digunakan  
+**Machine Learning:** Convolutional Neural Network (CNN)  
+**Platform:** Android 
