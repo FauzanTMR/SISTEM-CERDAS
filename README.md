@@ -23,10 +23,10 @@ Aplikasi ini dikembangkan untuk mendeteksi makanan da harga pada warung makan pa
 <img width="250" height="500" src="https://github.com/FauzanTMR/SISTEM-CERDAS/blob/main/gambar/gambar1.jpg" alt="Halaman Tampilan Utama">
 
 ### **Halaman Deteksi**
-<img width="250" height="500" src="gambar/gambar2" alt="Halaman Deteksi">
+<img width="250" height="500" src="https://github.com/FauzanTMR/SISTEM-CERDAS/blob/main/gambar/gambar2.jpg" alt="Halaman Deteksi">
 
 ### **Halaman Tentang**
-<img width="250" height="500" src="gambar/gambar3" alt="Halaman Tentang">
+<img width="250" height="500" src="https://github.com/FauzanTMR/SISTEM-CERDAS/blob/main/gambar/gambar3.jpg" alt="Halaman Tentang">
 
 >
 
